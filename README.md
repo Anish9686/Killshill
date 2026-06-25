@@ -4,11 +4,11 @@ A responsive KOL (Key Opinion Leader) analytics dashboard built as part of the *
 
 ## 🚀 Live Demo
 
-**Live Application:** https://your-vercel-link.vercel.app
+**Live Application:** https://killshill.vercel.app/
 
 ## 📂 Repository
 
-**GitHub:** https://github.com/your-username/killshill-kol-audit
+**GitHub:** https://github.com/Anish9686/Killshill
 
 ---
 
